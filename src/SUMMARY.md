@@ -1,10 +1,10 @@
 # Summary
 
-[Intro](./intro.md)
+[Intro](./intro.md)  # focuses on what _is_ ChatGPT
 
-- [Terms](./05_terms.md)
+- [Terms](./terms.md)
 
-- [Chatbot History](./10_history.md)
+- [Chatbot History](./ch_history.md)
 
 
 
