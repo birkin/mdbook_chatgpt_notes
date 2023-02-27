@@ -16,6 +16,8 @@
 
 - [Code examples](./code_examples.md)
 
+- [Concerns, Briefly](./concerns.md)
 
+- [What's it good for?](./whats_it_good_for.md)
 
 - [To incorporate](./to_incorporate.md)
