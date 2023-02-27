@@ -1,8 +1,8 @@
 # Intro
 
-Notes for ChatGPT presentation.
-
-Contains rough outline and main points to make.
+Overview of session...
+- video of Stable Diffusion session at url X
+- like last time, this will mostly be presentation, with next week having more time for discussion
 
 - ChatGPT -- what _is_ it?
 
@@ -12,9 +12,7 @@ Contains rough outline and main points to make.
         - Transformer -- the model uses the Transformer architecture
 
     - Ask chatGPT
-        - "what is chatgpt?"
-        - "in the context of machine-learning, what is a model?"
-        - "does machine learning use models, or does it create models?"
+        - "__what is chatgpt?__" -- [link](http://localhost:3001/01a_define_self_what-are-you.html)
 
     - On to terms...
 
