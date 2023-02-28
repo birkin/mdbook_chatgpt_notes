@@ -16,12 +16,16 @@
 
 - [The 'Persona' vs the model](./07_persona_vs_model.md)
 
-- [Code examples](./08_code_examples.md)
+- [Data example](./08a_data_example.md)
 
-- [Future](./08b_future.md)
+- [Code - python_weather](./08b_code_py_weather.md)
+
+- [Code - rust explanation](./08c_code_rust_explanation.md)
+
+- [Future](./08d_future.md)
 
 - [Concerns, Briefly](./09_concerns.md)
 
-- [What's it good for?](./10)whats_it_good_for.md)
+- [What's it good for?](./10_whats_it_good_for.md)
 
 - [To incorporate](./to_incorporate.md)

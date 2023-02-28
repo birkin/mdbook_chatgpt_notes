@@ -2,7 +2,11 @@
 
 - Bias.
 
-- It's sometimes wrong. (celsius example -- minor)  (citations example -- bigger)
+- It's sometimes wrong. 
+
+    - celsius example -- minor
+        
+    - citations example -- bigger
 
 - Why does it "lie"?
 

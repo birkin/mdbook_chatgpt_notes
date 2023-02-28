@@ -3,8 +3,8 @@
 ## Eliza  (1966)
 
 - [wikipedia article](https://en.wikipedia.org/wiki/ELIZA)
-- Author wrote: "I had not realized ... that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people."
-- Author's own secretary reportedly asked him to leave the room so that she and ELIZA could have a real conversation.
+- [99% invisible episode](https://99percentinvisible.org/episode/the-eliza-effect/transcript/)
+- Inventor: "After two or three interchanges with the machine, she turned to me and she said, “Would you mind leaving the room please?”."
 
 ## Stella  (2006)
 

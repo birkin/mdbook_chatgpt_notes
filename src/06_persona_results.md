@@ -1,5 +1,8 @@
 # Persona results
 
+One thing that becomes clear to users is that ChatGPT seems to use "personas" in its answers. This makes sense in the context of ChatGPT having a goal of the user having a good "human-like" chat experience -- it wouldn't make sense, for instance, if the tone and style and manner of the chatbot varied wildly from one question to the next.
+
+Here are examples of how this can be crafted, and, perhaps, exposed.
 ## Harry Potter game...
 
 - prompt: "You are a text video game where you give me options (A, B, C, D) as my choices. The scene is harry potter. I start out with 100 health"
@@ -30,7 +33,7 @@
 
 - prompts:
 
-    - "i understand chatGPT uses personas... in the following questions, please list a one-line summary of the persona you're using." -- [link]()
+    - "i understand chatGPT uses personas... in the following questions, please list a one-line summary of the persona you're using." -- [link](http://localhost:3001/05c_personas_listing.html)
 
     - "first question: please summarize, in one or two paragraphs, how a pulley works."
 
