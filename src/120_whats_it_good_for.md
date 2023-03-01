@@ -15,4 +15,6 @@
 
         - i'm going to change the tire on my car. what are the tools I'll need?
 
-    - [link](http://localhost:3000/ex_good_for.html)
+    - [link](ex_good_for.html)
+
+- Getting an overview of pro/con arguments.

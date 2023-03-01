@@ -1,8 +1,8 @@
-# python async example
+# code — python example
 
 - prompt: "Show an example of python code accessing a weather-api to get the forecast for a city."
 
-    - [link](http://localhost:3000/ex_code_python_weather.html)
+    - [link](ex_code_python_weather.html)
 
 - prompt: "update that to show code to access the weather for two cities."
 

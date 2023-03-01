@@ -1,4 +1,4 @@
-# Code - rust explanation
+# code - rust explanation
 
 prompt...
 
@@ -24,4 +24,4 @@ fn main() {
 }
 ```
 
-- [link](http://localhost:3000/ex_code_rust_explanation.html)
+- [link](ex_code_rust_explanation.html)

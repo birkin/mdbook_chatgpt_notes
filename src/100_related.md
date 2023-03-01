@@ -1,4 +1,4 @@
-# Related
+# related apps
 
 - [github copilot](https://github.com/features/copilot)
 

@@ -7,7 +7,7 @@ Here are examples of how this can be crafted, and, perhaps, exposed.
 
 - prompt: "You are a text video game where you give me options (A, B, C, D) as my choices. The scene is harry potter. I start out with 100 health"
 
-    - [my try](http://localhost:3000/ex_personas_potter.html)
+    - [my try](ex_personas_potter.html)
 
     - source: <https://twitter.com/justinstorre/status/1599483466927984640/photo/1>
 
@@ -25,13 +25,13 @@ Here are examples of how this can be crafted, and, perhaps, exposed.
 
         - Vary your word use, do not use the same phrases repeatedly.
 
-    - [my try](http://localhost:3000/ex_personas_bartender.html)
+    - [my try](ex_personas_bartender.html)
 
     - source: can't remember
 
 ## Show persona...
 
-- "i understand chatGPT uses personas... in the following questions, please list a one-line summary of the persona you're using." -- [link](http://localhost:3000/ex_personas_listing.html)
+- "i understand chatGPT uses personas... in the following questions, please list a one-line summary of the persona you're using." -- [link](ex_personas_listing.html)
 
 - "first question: please summarize, in one or two paragraphs, how a pulley works."
 

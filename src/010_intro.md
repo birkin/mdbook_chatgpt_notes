@@ -12,7 +12,7 @@ Overview of session...
         - Transformer -- the model uses the Transformer architecture
 
     - Ask chatGPT
-        - "__what is chatgpt?__" -- [link](http://localhost:3000/ex_intro_define_self_what-are-you.html)
+        - "__what is chatgpt?__" -- [link](ex_intro_define_self_what-are-you.html)
 
     - On to terms...
 
