@@ -22,10 +22,10 @@
 
 - [Code - rust explanation](./08c_code_rust_explanation.md)
 
-- [Future](./08d_future.md)
+- [Related](./09_related.md)
 
-- [Concerns, Briefly](./09_concerns.md)
+- [Concerns, Briefly](./10_concerns.md)
 
-- [What's it good for?](./10_whats_it_good_for.md)
+- [What's it good for?](./11_whats_it_good_for.md)
 
 - [To incorporate](./to_incorporate.md)
