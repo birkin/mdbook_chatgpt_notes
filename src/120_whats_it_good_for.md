@@ -15,4 +15,4 @@
 
         - i'm going to change the tire on my car. what are the tools I'll need?
 
-    - [link](http://localhost:3001/good_for.html)
+    - [link](http://localhost:3000/ex_good_for.html)

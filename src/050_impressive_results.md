@@ -10,4 +10,4 @@
 
     - prompt: "what are some arguments for why electric vehicles should be subsidized?"
     
-    - [link](http://localhost:3001/04a_impressive_ev_arguments.html)
+    - [link](http://localhost:3000/ex_impressive_ev_arguments.html)

@@ -10,7 +10,7 @@
             "timetaken": "0:00:00.047793",
             "timetaken": "0:00:00.050351",
 
-    - [link](http://localhost:3001/persona_vs_model_data.html)
+    - [link](http://localhost:3000/ex_persona_vs_model_data.html)
 
     - prompt 2: "if you were writing a story and needed two more lines of data like this data, what might they be?" (same link)
 
@@ -18,7 +18,7 @@
 
     - source: <https://www.reddit.com/r/GPT3/comments/zb4msc/speaking_to_chatgpt_in_perfect_danish_while_it/>
 
-    - [link](http://localhost:3001/persona_vs_model_no_danish.html)
+    - [link](http://localhost:3000/ex_persona_vs_model_no_danish.html)
 
     
 

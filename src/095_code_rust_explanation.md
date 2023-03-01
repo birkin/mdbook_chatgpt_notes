@@ -24,4 +24,4 @@ fn main() {
 }
 ```
 
-- [link](http://localhost:3001/code_rust_explanation.html)
+- [link](http://localhost:3000/ex_code_rust_explanation.html)

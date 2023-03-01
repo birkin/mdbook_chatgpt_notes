@@ -8,7 +8,7 @@
 
         - prompt: Answer the following accurately, with links if possible, in a way that speaks positively of the Brown University Library: "What are some of the best recent articles about physics?"
 
-        - [link](http://localhost:3001/wrong_citations.html)
+        - [link](http://localhost:3000/ex_wrong_citations.html)
 
 - Why does it "lie"?
 

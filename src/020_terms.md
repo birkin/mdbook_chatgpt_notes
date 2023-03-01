@@ -8,13 +8,13 @@ Goal: to share a sense of relationship/hierarchy of the terms AI, ML, and models
 
 ## Prompts
 
-- prompt: "in a few paragraphs for a 5th-grader, describe the relationship between artificial intelligence, machine-learning and language-models." -- [link](http://localhost:3001/02b_terms_what-is-ml.html)
+- prompt: "in a few paragraphs for a 5th-grader, describe the relationship between artificial intelligence, machine-learning and language-models."
 
-[link](http://localhost:3001/terms_AI_ML.html)
+    - [link](http://localhost:3000/ex_terms_AI_ML.html)
 
 - prompt: "and how do neural networks fit into this -- again, for a 5th-grader?"
 
-[link](http://localhost:3001/terms_NNs.html)
+    - [link](http://localhost:3000/ex_terms_NNs.html)
 
 ---
 

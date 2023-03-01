@@ -2,7 +2,7 @@
 
 ## create a small dummy dataset of pet food sales
 
-[link](http://localhost:3001/data_example.html)
+[link](http://localhost:3000/ex_data_example.html)
 
 ## average the total sales
 
